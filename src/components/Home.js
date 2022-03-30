@@ -3,7 +3,7 @@ import styledComponents from 'styled-components';
 import home from '../components/assets/home.svg';
 import logo from '../components/assets/logos.png';
 import Footer from './Footer';
-import Services from './Services';
+import Services from './Services/Services';
 import Trusted from './Trusted';
 
 
